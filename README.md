@@ -1,5 +1,7 @@
-论文标题：Multicenter investigation of preoperative distinction between primary central nervous system lymphomas and glioblastomas through interpretable artificial intelligence models
-论文DOI: 10.1007/s00234-024-03451-7      
+title：Multicenter investigation of preoperative distinction between primary central nervous system lymphomas and glioblastomas through interpretable artificial intelligence models
+
+DOI: 10.1007/s00234-024-03451-7        
+      
  
 Abstract
 Objective: Research into the effectiveness and applicability of deep learning, radiomics, and their integrated models based on Magnetic Resonance Imaging (MRI) for preoperative differentiation between Primary Central Nervous System Lymphoma (PCNSL) and Glioblastoma (GBM), along with an exploration of the interpretability of these models.
